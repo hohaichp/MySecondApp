@@ -1,0 +1,12 @@
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe.config
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\bin\Debug\MySecondApp.pdb
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csprojAssemblyReference.cache
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Properties.Resources.resources
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.GenerateResource.cache
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.CoreCompileInputs.cache
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.exe
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.pdb
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Form1.resources
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Form2.resources
+D:\workspaces\vs2017workspace\csharp\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Form3.resources
